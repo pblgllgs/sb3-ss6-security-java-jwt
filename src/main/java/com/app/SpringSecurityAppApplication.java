@@ -14,10 +14,10 @@ import java.util.List;
 import java.util.Set;
 
 @SpringBootApplication
-public class SpringSeecurityAppApplication {
+public class SpringSecurityAppApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringSeecurityAppApplication.class, args);
+        SpringApplication.run(SpringSecurityAppApplication.class, args);
     }
 
     @Bean
